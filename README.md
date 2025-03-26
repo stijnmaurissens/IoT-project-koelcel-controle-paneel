@@ -2,6 +2,8 @@
 micro controller dat via blynk temperatuur kan zien en instellen
 
 
+youtube demonstratie + uitleg: https://youtu.be/9vppRrDuetk 
+
 Documentatie: koelcel controle paneel
 
 Met dit project zou je jou koelcel/frigo van op afstand kunnen regelen en controleren via blynk.
